@@ -1,0 +1,24 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code specific files
+.vscode/
+
+# MicroPython specific
+*.mpy
+*.bin
+*.elf
+.mpy
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+config.json
+
+# random large file
+*portafilter-holder_v35.stp
